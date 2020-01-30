@@ -1,2 +1,1 @@
 # ding
-I AM CHINESE!
